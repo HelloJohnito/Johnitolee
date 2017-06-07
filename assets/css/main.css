@@ -2575,7 +2575,7 @@
 
 			ul.actions.vertical li {
 				display: block;
-				padding: 1rem 0 0 0;
+				/*padding: 1rem 0 0 0;*/
 			}
 
 				ul.actions.vertical li:first-child {
